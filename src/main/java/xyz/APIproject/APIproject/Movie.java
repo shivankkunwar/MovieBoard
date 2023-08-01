@@ -26,4 +26,6 @@ public class Movie {
 
     private List<String> backdrops;
 
+    private List<Review> reviewIds;
+
 }
